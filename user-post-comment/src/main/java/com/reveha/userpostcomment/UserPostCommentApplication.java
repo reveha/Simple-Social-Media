@@ -11,6 +11,7 @@ public class UserPostCommentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserPostCommentApplication.class, args);
+		System.out.println("Merhaba Yeni VERSION");
 	}
 
 	@Bean
